@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tesis Life Buddy</string>
+    <string name="calorie">Kalória</string>
+    <string name="protein">Fehérje</string>
+    <string name="calorie_protein_values">%1$.1f / %2$d</string>
+    <string name="null_button">Null</string>
+    <string name="food_button">Food</string>
+    <string name="menu_set_max_values">Célértékek beállítása</string>
+    <string name="fragment_set_max_values_title">Célértékek beállítása</string>
+    <string name="calorie_destination_value">Kalória célérték</string>
+    <string name="protein_destination_value">Fehérje célérték</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="error">Meg kell adnod a kért adatokat.</string>
+    <string name="add_button">Add</string>
+    <string name="calorie_value">Kalória: %1$.1f</string>
+    <string name="protein_value">Fehérje: %1$.1f</string>
+    <string name="quantity_value">Mennyiség: %1$s</string>
+    <string name="brand_value">Brand: %1$s</string>
+    <string name="title_cards">Cards</string>
+    <string name="new_card">Új kártya</string>
+    <string name="add_to_counters">Számlálók növelése</string>
+    <string name="foodName">Név</string>
+    <string name="delete">Törlés</string>
+    <string name="title_search">Search</string>
+    <string name="searched_food_name">Keresendő étel neve</string>
+    <string name="search">Keresés</string>
+    <string name="quantity">Mennyiség</string>
+    <string name="make_card">Make Card</string>
+    <string name="brand">Brand</string>
+    <string name="notification">Kalória: %1$.1f / %2$d | Fehérje: %3$.1f / %4$d</string>
+    <string name="notification_on_off">Notification be-/kikapcsolása</string>
+</resources>
